@@ -1,0 +1,74 @@
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe.config
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.pdb
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.Properties.Resources.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csproj.GenerateResource.Cache
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.exe
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.pdb
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe.config
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.pdb
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.Properties.Resources.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csproj.GenerateResource.Cache
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csproj.CoreCompileInputs.cache
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.exe
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.pdb
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmCadastrarUsuario.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeAdm.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeLogin.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeUsuario.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCadastro.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserTelaInicial.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmCadastrarUsuario.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeAdm.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeLogin.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeUsuario.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCadastro.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserTelaInicial.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCalcularReflorestamento.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCTelaDeAssist.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCalcularReflorestamento.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCTelaDeAssist.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csprojResolveAssemblyReference.cache
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csprojResolveAssemblyReference.cache
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmRecuperarSenha.resources
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmRecuperarSenha.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe.config
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.exe
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.pdb
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csprojResolveAssemblyReference.cache
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmCadastrarUsuario.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmRecuperarSenha.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeAdm.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeLogin.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeUsuario.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.Properties.Resources.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCadastro.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCalcularReflorestamento.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCRegistrarDesmatamento.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCTelaDeAssist.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserTelaInicial.resources
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csproj.GenerateResource.Cache
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe
+E:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.pdb
+D:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCRegistrarDesmatamento.resources
+G:\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCRegistrarDesmatamento.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe.config
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.exe
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\bin\Debug\SAReflorestamento.pdb
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmCadastrarUsuario.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmRecuperarSenha.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeAdm.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeLogin.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.frmTelaDeUsuario.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.Properties.Resources.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCadastro.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCCalcularReflorestamento.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCRegistrarDesmatamento.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserCTelaDeAssist.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.UserTelaInicial.resources
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.exe
+C:\Users\lucas\Desktop\Thales\Senai 2018\Senai\PD\Situação de Aprendizagem\SAReflorestamento\SAReflorestamento\obj\Debug\SAReflorestamento.pdb
